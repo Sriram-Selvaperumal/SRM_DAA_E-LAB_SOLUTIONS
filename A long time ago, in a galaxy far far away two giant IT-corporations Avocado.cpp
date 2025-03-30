@@ -21,3 +21,5 @@ int main() {
     return 0;
     cout<<"std::cin>>s>>t;";
 }
+
+//NEVER FORGET TO GIVE A STAR TO THIS REPO
