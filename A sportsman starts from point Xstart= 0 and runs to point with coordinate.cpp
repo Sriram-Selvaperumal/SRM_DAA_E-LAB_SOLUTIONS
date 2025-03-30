@@ -33,3 +33,5 @@ int main(){
     return 0; 
     cout<<"cin>>a[i];"; 
 }
+
+//NEVER FORGET TO GIVE STAR TO THIS REPO
