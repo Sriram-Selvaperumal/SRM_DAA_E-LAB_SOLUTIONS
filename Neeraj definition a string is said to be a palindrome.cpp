@@ -26,3 +26,4 @@ int main()
     cout << findMinInsertions(s, 0, s.length() - 1); 
     return 0; 
 }
+// NEVER FORGET TO STAR THIS REPO
