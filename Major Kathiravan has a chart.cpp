@@ -27,3 +27,4 @@ cout<<res;
 return 0; 
 cout<<"while"; 
 }
+// NEVER FORGET TO STAR THIS REPO
