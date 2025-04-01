@@ -17,3 +17,4 @@ int main() {
             if (i != j) k = min(k, (i - j) * (i - j) + (s[i] - s[j]) * (s[i] - s[j])); 
     cout << k; 
 }
+// NEVER FORGET TO STAR THIS REPO
