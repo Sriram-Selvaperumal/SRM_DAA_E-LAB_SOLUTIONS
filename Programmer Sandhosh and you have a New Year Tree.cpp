@@ -41,3 +41,4 @@ int main() {
     cout<<"int dis(int x,int y)";
     cout<<"cin>>u;";
 }
+// NEVER FORGET TO STAR THIS REPO
