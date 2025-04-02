@@ -42,3 +42,4 @@ int main() {
     dfs(1, 0); 
     for(int i = 1; i <= n; ++i) printf("%c%c", color[i], " \n"[i == n]); 
 }
+// NEVER FORGET TO STAR THIS REPO
