@@ -27,3 +27,4 @@ while(y>0)w+=c[y],y-=y&-y;
 } 
 cout<<w<<endl; 
 }
+// NEVER FORGET TO STAR THIS REPO
