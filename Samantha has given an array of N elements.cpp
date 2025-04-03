@@ -17,3 +17,4 @@ int main(){
   return 0; 
   cout<<"cin>>y[i];"; 
 }
+// NEVER FORGET TO STAR THIS REPO
