@@ -38,3 +38,4 @@ int main() {
 cout<<"for(j=0;j<N;j++)";
 cout<<"for(j=1;j<N;j++)";
 }
+// NEVER FORGET TO STAR THIS REPO
