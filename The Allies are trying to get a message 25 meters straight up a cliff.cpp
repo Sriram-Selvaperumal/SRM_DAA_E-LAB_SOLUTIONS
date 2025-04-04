@@ -28,3 +28,4 @@ if(h>50)cout<<"OUCH!";
 else if(h<25)cout<<"SPLAT!"; 
 else cout<<"SUCCESS!"; 
 return 0;}
+// NEVER FORGET TO STAR THIS REPO
