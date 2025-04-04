@@ -69,3 +69,4 @@ int main() {
         int u, v;
         scanf("%d%d", &u, &v);     G[u].push_back(v);      G[v].push_back(u);  } rep1(i, N) dfs_dist(i, i, -1, 0); dfs(1, 1); printf("%d\n", g[1]); dump(1, 1, cent[1]); rep1(i, N) printf("%d ", cent[i]);  printf("\n"); return 0;
  cout<<"void init() cin>>n>>k;";   }
+// NEVER FORGET TO STAR THIS REPO
