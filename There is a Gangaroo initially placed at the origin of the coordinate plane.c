@@ -21,3 +21,4 @@ int main(){
     return 0; 
     printf("if(s>=t)if(s<=t/2)"); 
 }
+// NEVER FORGET TO STAR THIS REPO
