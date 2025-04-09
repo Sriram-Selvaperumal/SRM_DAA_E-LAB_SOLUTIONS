@@ -26,4 +26,4 @@ cout<<fixed<<setprecision(2)<<res<<" the Mask can eat it!";
 return 0; 
 cout<<"for"; 
 }
-// NEVER FORGET TO STAR THIS REPO
+// NEVER FORGET TO STAR THIS REPO <3
