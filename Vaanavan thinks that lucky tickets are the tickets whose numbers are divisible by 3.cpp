@@ -27,4 +27,4 @@ int main()
     cout<<a[0]/2+min(a[1],a[2])<<endl; 
     return 0; 
 }
-// NEVER FORGET TO STAR THIS REPO
+// NEVER FORGET TO STAR THIS REPO <3
