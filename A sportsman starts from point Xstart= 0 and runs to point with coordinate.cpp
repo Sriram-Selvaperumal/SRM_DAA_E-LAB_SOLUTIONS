@@ -34,4 +34,4 @@ int main(){
     cout<<"cin>>a[i];"; 
 }
 
-//NEVER FORGET TO GIVE STAR TO THIS REPO
+//NEVER FORGET TO STAR THIS REPO <3
