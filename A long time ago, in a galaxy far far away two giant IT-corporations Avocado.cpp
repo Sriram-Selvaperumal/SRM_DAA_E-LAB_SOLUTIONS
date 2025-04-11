@@ -22,4 +22,4 @@ int main() {
     cout<<"std::cin>>s>>t;";
 }
 
-//NEVER FORGET TO GIVE A STAR TO THIS REPO
+//NEVER FORGET TO STAR THIS REPO <3
