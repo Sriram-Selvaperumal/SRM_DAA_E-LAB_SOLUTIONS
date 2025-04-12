@@ -33,4 +33,6 @@ cout<<a;
 return 0; 
 cout<<"for(i=1;i<=yen;i++) int i,j;"; 
 }
-// NEVER FORGET TO STAR THIS REPO
+
+
+//NEVER FORGET TO GIVE STAR TO THIS REPO <3
