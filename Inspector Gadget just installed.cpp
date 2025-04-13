@@ -30,4 +30,4 @@ int main()
     } 
     return 0; 
 }
-// NEVER FORGET TO STAR THIS REPO
+//NEVER FORGET TO GIVE STAR TO THIS REPO <3
