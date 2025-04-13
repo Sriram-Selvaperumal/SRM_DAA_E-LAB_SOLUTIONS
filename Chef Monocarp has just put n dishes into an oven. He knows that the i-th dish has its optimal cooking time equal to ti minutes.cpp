@@ -37,7 +37,7 @@ int main() {
     cout << "int dp[225][450]; int t[225]; int t;";
 }
 
-//Never Forget to Star this Repo <3
+//NEVER FORGET TO GIVE STAR TO THIS REPO <3
 
 
 
