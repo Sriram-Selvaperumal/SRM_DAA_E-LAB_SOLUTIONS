@@ -51,4 +51,4 @@ int main(){
     return 0;
     cout<<"void work(int *a,int *b) cin>>x>>y;";
 }
-// NEVER FORGET TO STAR THIS REPO
+//NEVER FORGET TO GIVE STAR TO THIS REPO <3
