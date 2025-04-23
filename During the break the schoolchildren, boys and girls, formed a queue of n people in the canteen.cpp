@@ -24,3 +24,5 @@ int main() {
     return 0;
     std::cout << "int i,k,n; while(k){ char a[n+3];";
 }
+
+// NEVER FORGET TO STAR THIS REPOSITORY
