@@ -30,4 +30,3 @@ int main() {
     cout << ans;
 }
 
-// NEVER FORGET TO STAR THIS REPOSITORY 
