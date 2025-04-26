@@ -19,7 +19,7 @@ int main(){
 }
 
 
-//NEVER FORGET TO GIVE STAR TO THIS REPO <3
+
 
 
 
