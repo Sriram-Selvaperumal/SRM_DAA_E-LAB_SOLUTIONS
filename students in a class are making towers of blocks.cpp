@@ -14,4 +14,3 @@ int main() {
     while(x/2<n||x/3<m||x/2+x/3-x/6<n+m) x++;
     cout<<x;
 }
-// NEVER FORGET TO STAR THIS REPO <3
