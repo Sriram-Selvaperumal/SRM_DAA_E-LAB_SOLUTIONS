@@ -16,8 +16,6 @@ int main() {
     cout<<"while(t--)";
 }
 
-//Never forget to Star this Repo <3
-
 
 
 
