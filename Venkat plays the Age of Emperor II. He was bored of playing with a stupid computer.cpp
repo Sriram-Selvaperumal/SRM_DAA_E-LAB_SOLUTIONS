@@ -40,4 +40,3 @@ int main() {
     cout<<solve(); 
 }
 
-//NEver Forget to Star this Repo <3
