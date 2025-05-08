@@ -44,4 +44,4 @@ int main() {
     cout<<"while(t--)";
 }
 
-//Never Forget to Star this Repo <3
+
