@@ -21,4 +21,4 @@ cout<<res;
 return 0; 
 if(1<0) 
 cout<<"break;";}
-// NEVER FORGET TO STAR THIS REPO
+
